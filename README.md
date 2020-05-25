@@ -39,4 +39,13 @@ For all projects dataset used can be found within folder
 - MLPClassifier
 
 
+## Project 5: Breast Cancer Classification
+
+**Objective:** To build a breast cancer classifier on an IDC dataset that can accurately classify a histology image as benign or malignant
+
+*Tools Used:*
+- Keras
+  - Sequential
+
+
 
