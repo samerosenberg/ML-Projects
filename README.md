@@ -54,3 +54,12 @@ For all projects dataset used can be found within folder
 *Tools Used:*
 - OpenCV
 - ConvNet
+
+## Project 7: HandWritten Digit Recognizer
+
+**Objective:** To build a convolutional neural network that can accurately classify handwritten digits
+
+*Tools Used:*
+- Keras
+  - Sequential
+- tkinter
