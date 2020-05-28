@@ -2,7 +2,7 @@
 
 Link to all tutorials: https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/
 
-For all projects dataset used can be found within folder 
+For all projects dataset used can be found within folder
 
 
 ## Project 1: Fake News Detection
@@ -27,7 +27,7 @@ For all projects dataset used can be found within folder
 **Objective:** Create color detection algorithm to recognize color in photos
 
 *Tools Used:*
-- opencv
+- OpenCV
 
 
 ## Project 4: Speech Emotion Recognition
@@ -35,7 +35,7 @@ For all projects dataset used can be found within folder
 **Objective:** To build a model to recognize emotion from speech using the librosa and sklearn libraries and the RAVDESS dataset
 
 *Tools Used:*
-- librosa 
+- librosa
 - MLPClassifier
 
 
@@ -47,5 +47,10 @@ For all projects dataset used can be found within folder
 - Keras
   - Sequential
 
+## Project 6: Gender and Age Detection
 
+**Objective:** To build a gender and age detector that can approxiamtely guess the gender and age of the person (face) in a picture using Deep Learning on the Adience dataset
 
+*Tools Used:*
+- OpenCV
+- ConvNet
