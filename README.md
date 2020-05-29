@@ -63,3 +63,13 @@ For all projects dataset used can be found within folder
 - Keras
   - Sequential
 - tkinter
+
+
+## Project 8: Chatbot
+
+**Objective:** To create a generative based chatbot using NLTK
+
+*Tools Used:*
+- NLTK
+- Keras
+  - Sequential
