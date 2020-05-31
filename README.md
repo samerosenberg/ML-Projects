@@ -73,3 +73,13 @@ For all projects dataset used can be found within folder
 - NLTK
 - Keras
   - Sequential
+
+## Project 9: Drowsiness Detection
+
+**Objective:** To build a drowsiness detection system that will detect that a person' eyes are closed for a few seconds
+
+*Tools Used:*
+- OpenCV
+- Keras
+  - Sequential
+- Pygame
