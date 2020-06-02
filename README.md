@@ -91,3 +91,12 @@ For all projects dataset used can be found within folder
 *Tools Used:*
 - Keras
   - Sequential
+
+## Project 11: Image Caption Generator
+
+**Objective:** To learn the concepts of a CNN and LSTM model and build a working model of Image caption generator by implementing them both
+
+*Tools Used:*
+- Keras
+  - Xception
+  - LSTM
