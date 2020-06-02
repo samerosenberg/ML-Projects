@@ -83,3 +83,11 @@ For all projects dataset used can be found within folder
 - Keras
   - Sequential
 - Pygame
+
+## Project 10: Traffic Signs Recognition
+
+**Objective:** To build a deep neural network model that can classify traffic signs
+
+*Tools Used:*
+- Keras
+  - Sequential
