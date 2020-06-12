@@ -31,7 +31,7 @@ words = [lemmatizer.lemmatize(w.lower()) for w in words if w not in ignore_words
 words = sorted(list(set(words)))
 
 classes = sorted(list(set(classes)))
-print(len(documents),'documents')
+print(len(documents),'documents',documents)
 print(len(classes),'classes',classes)
 print(len(words),'unique lemmatzied words',words)
 
@@ -51,6 +51,7 @@ for doc in documents:
     output_row[classes.index(doc[1])] = 1
     training.append([bag,output_row])
 
+print('Training: ',training)
 random.shuffle(training)
 training = np.array(training)
 

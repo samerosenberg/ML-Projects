@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 
-NUM_EPOCHS=40; INIT_LR=1e-2; BS=32
+NUM_EPOCHS=40; INIT_LR=1e-2; BS=100
 
 trainPaths=list(paths.list_images(config.TRAIN_PATH))
 lenTrain=len(trainPaths)
