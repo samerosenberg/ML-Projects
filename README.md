@@ -1,4 +1,4 @@
-# Data Science Projects
+# Machine Learning Projects
 
 Link to all tutorials: https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/
 
